@@ -1,0 +1,15 @@
+{
+  "name": "srt-merge",
+  "version": "0.0.1",
+  "description": "merge two srt files into one",
+  "author": "",
+  "license": "ISC",
+  "main": "merge.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "subtitle": "^4.2.1"
+  }
+}
